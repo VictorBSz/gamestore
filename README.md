@@ -8,3 +8,6 @@
   <li>Garantir que o servidor MySQL esteja funcionando, o projeto utiliza a porta padrão(3006)</li>
   <li>No Netbeans, nas opções na parte superior, ir até "Run" e clicar na opção "Run project"</li>
 </ol>
+
+<br>
+Feito por: João Victor Borges de Souza, Wendel Santos Souza e Richard Herrera Martinez
