@@ -10,7 +10,7 @@ import java.sql.SQLException;
  *
  * @author d4rkp
  */
-public class conexao {
+public class Conexao {
     
     private static final String URL = "jdbc:mysql://localhost:3306/gamestore";
     private static final String USER = "root";
